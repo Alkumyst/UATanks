@@ -1,0 +1,57 @@
+Initialize engine version: 2017.1.0p4 (892c0f8d8f8a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K2000 (ID=0xffe)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   22.21.13.8541
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\School\UAT\F2017\GPE205\UATanks\UATanks_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\School\UAT\F2017\GPE205\UATanks\UATanks_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\School\UAT\F2017\GPE205\UATanks\UATanks_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\School\UAT\F2017\GPE205\UATanks\UATanks_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\School\UAT\F2017\GPE205\UATanks\UATanks_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\School\UAT\F2017\GPE205\UATanks\UATanks_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\School\UAT\F2017\GPE205\UATanks\UATanks_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\School\UAT\F2017\GPE205\UATanks\UATanks_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\School\UAT\F2017\GPE205\UATanks\UATanks_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading E:\School\UAT\F2017\GPE205\UATanks\UATanks_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: E:\School\UAT\F2017\GPE205\UATanks\UATanks_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\School\UAT\F2017\GPE205\UATanks\UATanks_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.435 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.783965 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 38d0 -> priority: 1 
+  Thread -> id: 6ac -> priority: 1 
+  Thread -> id: 465c -> priority: 1 
+  Thread -> id: 22d8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.664052 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1971.
+Total: 4.600853 ms (FindLiveObjects: 0.166030 ms CreateObjectMapping: 0.124371 ms MarkObjects: 1.060481 ms  DeleteObjects: 3.248460 ms)
+
+Speed Increase powerup applied!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Speed Increase powerup removed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TANK HIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fleer: Run Away!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TANK HIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
